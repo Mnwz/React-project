@@ -9,14 +9,14 @@ function Footer() {
       <div className="container-footer">
         <div className="container-img-zap">
           <a
-            href="https://wa.me/5531984322801"
+            href="https://wa.me/5521988853218"
             target="_blank"
             rel="noreferrer"
           >
             <img src={whatsapp} alt="Link para WhatsApp" />
           </a>
 
-          <p>(00) 0 0000-0000</p>
+          <p>(21) 9 8885-3218</p>
         </div>
         <div className="container-img-zap">
           <Link to={"/"}>
