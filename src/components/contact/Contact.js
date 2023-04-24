@@ -9,11 +9,11 @@ function Contact() {
       <div className="contact">
         <div className="contact-social">
           <img src={email} alt="Email" />
-          <p>ficticio@contecbh.com.br</p>
+          <p>marcosorlandork@gmail.com</p>
         </div>
         <div className="contact-social">
           <img src={whatsapp} alt="Whatsapp" />
-          <p>WhatsApp: (00) 0 0000-0000</p>
+          <p>WhatsApp: (21) 9 8885-3218</p>
         </div>
         <div className="contact-social">
           <img src={telefone} alt="Telefone Fixo" />
